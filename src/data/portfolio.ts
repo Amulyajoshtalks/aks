@@ -2,7 +2,7 @@ export const profile = {
   name: "AMULYA KUMAR SENAPATI",
   title: "Frontend Engineer | React Developer",
   location: "Odisha, India",
-  email: "amulyakumar662@gmail.com",
+  email: "amulyas.cf@gmail.com",
   phone: "+91-7438850195",
   linkedin: "https://www.linkedin.com/in/amulya-kumar-senapati-a64243225",
   summary:
@@ -246,13 +246,13 @@ export const terminalCommands: Record<string, string> = {
   social: `┌─────────────────────────────────────────────┐
 │  🌐 FIND ME ONLINE                           │
 ├─────────────────────────────────────────────┤
-│  📧 amulyakumar662@gmail.com                 │
+│  📧 amulyas.cf@gmail.com                 │
 │  📞 +91-7438850195                           │
 │  🔗 linkedin.com/in/amulya-kumar-senapati-a64243225/  │
 └─────────────────────────────────────────────┘`,
 
   contact: `📬 Type your message below or scroll down to the contact form!
    Alternatively, reach me at:
-   📧 amulyakumar662@gmail.com
-   📞 +91-9304480737`,
+   📧 amulyas.cf@gmail.com
+   📞 +91-7438850195`,
 };
